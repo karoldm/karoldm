@@ -1,6 +1,6 @@
   ### Hi there 👋 My name is Karolyne and i'm web and mobile developer, current in the last year of the computer science bacharels and intern in VLab/Eventials company. 
-  ### Have fun with some of my open projects and random college works c: 
-
+  Have fun with some of my open projects and random college works c: 
+<br></br>
 <div>
   <a href="https://github.com/karoldm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karoldm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
