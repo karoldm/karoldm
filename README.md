@@ -1,4 +1,4 @@
-  ### Hi there 👋 My name is Karolyne and i'm web and mobile developer, current in the last year of the computer science bacharels and Frontend developer focusing on React.js and Flutter. 
+  ### Hi there 👋 My name is Karolyne and i'm web and mobile developer focusing on React.js and Flutter, current in the last year of the computer science bacharels. 
   Have fun with some of my open projects and random college works c: 
 <br></br>
 <div>
