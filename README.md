@@ -1,4 +1,4 @@
-  ### Hi there 👋 My name is Karolyne and i'm Software Developer focusing on React.js, Flutter and sometimes Java with Spring Boot, current in the last period of the computer science bacharels. 
+  ### Hi there 👋 My name is Karolyne and i'm Software Developer focusing on React.js, Flutter and sometimes Angular and Java with Spring Boot, current in the last period of the computer science bacharels. 
   Have fun with some of my open projects and random college works c: 
 <br></br>
 <div>
