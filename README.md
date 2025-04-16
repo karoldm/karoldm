@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/karoldm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karoldm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karoldm&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karoldm&layout=compact&langs_count=6&theme=dracula&size_weight=0&count_weight=1"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
