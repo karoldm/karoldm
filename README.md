@@ -1,7 +1,7 @@
   ### Hi there 👋 My name is Karolyne and i'm Software Developer focusing on React.js, Flutter and sometimes Angular and Java with Spring Boot, current in the last period of the computer science bacharels. 
   Have fun with some of my open projects and random college works c: 
 <br></br>
-<div>
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/karoldm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karoldm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karoldm&layout=compact&langs_count=6&theme=dracula&size_weight=0.5&count_weight=0.5"/>
