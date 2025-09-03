@@ -1,4 +1,4 @@
-  ### Hi there 👋 My name is Karolyne and I'm a Software Developer focusing on React.js, Flutter and sometimes Angular and Java with Spring Boot.
+  ### Hi there 👋 My name is Karolyne and I'm a Software Developer focusing on React.js, Nextjs, Flutter and sometimes Angular and Java with Spring Boot.
   Have fun with some of my open projects and random college works c: 
 <br></br>
 <div style="display: flex; justify-content: space-between;">
